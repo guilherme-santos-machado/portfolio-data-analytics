@@ -1,0 +1,14 @@
+{
+  "transaction_rows": 5000,
+  "transaction_columns": 29,
+  "customer_rows": 350,
+  "supplier_rows": 90,
+  "monthly_periods": 60,
+  "transaction_date_min": "2021-01-01",
+  "transaction_date_max": "2025-12-31",
+  "duplicate_transaction_ids": 0,
+  "null_customer_ids_on_revenue": 0,
+  "null_supplier_ids_on_expense": 0,
+  "late_payment_flag_observed": 4854,
+  "late_payment_flag_missing": 146
+}
