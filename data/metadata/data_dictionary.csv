@@ -1,0 +1,46 @@
+table,column,data_type,description
+financial_transactions,transaction_id,object,Unique transaction identifier.
+financial_transactions,transaction_date,object,Date the transaction was recorded.
+financial_transactions,transaction_type,object,Revenue or Expense; use this field to distinguish inflows from outflows.
+financial_transactions,description,object,Synthetic description of the transaction.
+financial_transactions,category,object,Main financial category.
+financial_transactions,subcategory,object,More detailed financial classification.
+financial_transactions,gross_amount_brl,float64,Gross transaction amount before discounts and taxes.
+financial_transactions,discount_amount_brl,float64,Discount applied to the gross amount.
+financial_transactions,tax_amount_brl,float64,Synthetic tax amount added to the discounted amount.
+financial_transactions,net_amount_brl,float64,"Net transaction amount, calculated as gross minus discount plus tax."
+financial_transactions,signed_amount_brl,float64,Net amount signed for cash-flow analysis: positive for revenue and negative for expenses.
+financial_transactions,payment_method,object,Payment method associated with the transaction.
+financial_transactions,payment_terms_days,int64,Number of days between transaction date and due date.
+financial_transactions,due_date,object,Contractual payment due date.
+financial_transactions,payment_date,object,Actual payment date; blank when not paid by the dataset cutoff or cancelled.
+financial_transactions,payment_status,object,"Paid On Time, Paid Late, Overdue, Pending, or Cancelled."
+financial_transactions,days_late,float64,Number of days after due date; zero for on-time/early payments; blank where outcome is not observed.
+financial_transactions,late_payment_flag,float64,"Target variable: 1 if late, 0 if paid on time/early, blank if outcome is not observed."
+financial_transactions,customer_id,object,Customer key; populated for revenue transactions.
+financial_transactions,supplier_id,object,Supplier key; populated for expense transactions.
+financial_transactions,counterparty_type,object,Customer for revenue transactions or Supplier for expense transactions.
+financial_transactions,cost_center,object,Internal department or cost center associated with the transaction.
+financial_transactions,financial_account,object,Synthetic account classification.
+financial_transactions,sales_channel,object,Sales or internal procurement channel.
+financial_transactions,region,object,Brazilian macro-region associated with the counterparty.
+financial_transactions,installment_number,int64,Installment sequence number; currently 1 because each row represents one recorded installment.
+financial_transactions,installment_total,int64,Total number of installments associated with the transaction.
+financial_transactions,is_recurring,bool,Whether the transaction is part of a recurring arrangement.
+financial_transactions,currency,object,Currency code; BRL for all records.
+customers,customer_id,object,Unique synthetic customer key.
+customers,customer_segment,object,Customer size/type segment.
+customers,industry,object,Customer industry.
+customers,region,object,Customer's Brazilian macro-region.
+customers,customer_since,object,Synthetic customer relationship start date.
+customers,customer_risk_band,object,Synthetic risk category for analytical exercises.
+suppliers,supplier_id,object,Unique synthetic supplier key.
+suppliers,supplier_category,object,Supplier's main category.
+suppliers,region,object,Supplier's Brazilian macro-region.
+suppliers,supplier_since,object,Synthetic supplier relationship start date.
+suppliers,supplier_risk_band,object,Synthetic supplier risk category.
+monthly_financial_summary,month,object,Calendar month in YYYY-MM format.
+monthly_financial_summary,revenue_brl,float64,"Sum of net revenue transactions in the month, excluding cancelled records."
+monthly_financial_summary,expenses_brl,float64,"Sum of net expense transactions in the month, excluding cancelled records."
+monthly_financial_summary,transaction_count,int64,Number of non-cancelled transactions recorded in the month.
+monthly_financial_summary,net_result_brl,float64,Revenue minus expenses for the month.
