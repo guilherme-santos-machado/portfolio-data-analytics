@@ -1,0 +1,91 @@
+supplier_id,supplier_category,region,supplier_since,supplier_risk_band
+SUP001,Travel,Southeast,2022-12-21,Low
+SUP002,Facilities,Southeast,2024-11-06,Medium
+SUP003,Logistics,South,2021-12-22,Low
+SUP004,Professional Services,South,2024-08-05,Low
+SUP005,Professional Services,Northeast,2016-04-06,Low
+SUP006,Technology,North,2022-03-19,Medium
+SUP007,Office Supplies,South,2014-04-02,Low
+SUP008,Facilities,Northeast,2016-11-23,High
+SUP009,Office Supplies,South,2014-10-02,Medium
+SUP010,Marketing,South,2021-09-18,Low
+SUP011,Utilities,Northeast,2017-03-31,Low
+SUP012,Technology,South,2018-03-20,Medium
+SUP013,Technology,Central-West,2014-11-11,Medium
+SUP014,Office Supplies,Southeast,2016-03-25,Low
+SUP015,Facilities,Southeast,2017-01-07,Low
+SUP016,Professional Services,Southeast,2015-05-26,Low
+SUP017,Professional Services,Southeast,2018-01-15,Medium
+SUP018,Marketing,South,2023-02-14,Medium
+SUP019,Professional Services,Southeast,2016-01-11,Medium
+SUP020,Technology,South,2022-12-11,Low
+SUP021,Professional Services,Northeast,2023-09-15,Medium
+SUP022,Office Supplies,Northeast,2020-08-31,Low
+SUP023,Professional Services,South,2017-03-20,Medium
+SUP024,Technology,North,2018-10-15,Low
+SUP025,Travel,Central-West,2015-05-14,Medium
+SUP026,Facilities,Southeast,2022-10-16,Medium
+SUP027,Logistics,Southeast,2022-07-06,Low
+SUP028,Professional Services,Southeast,2018-10-31,High
+SUP029,Marketing,South,2021-01-29,High
+SUP030,Facilities,Southeast,2016-08-17,Low
+SUP031,Utilities,Central-West,2015-04-03,Low
+SUP032,Travel,Southeast,2018-02-08,Low
+SUP033,Logistics,South,2017-10-19,Medium
+SUP034,Marketing,Southeast,2019-10-31,Low
+SUP035,Technology,Northeast,2024-11-26,Low
+SUP036,Facilities,North,2021-08-01,Low
+SUP037,Utilities,Northeast,2016-09-20,Low
+SUP038,Travel,Southeast,2017-12-25,Medium
+SUP039,Marketing,Central-West,2024-09-14,Low
+SUP040,Office Supplies,Southeast,2016-07-23,Low
+SUP041,Utilities,Southeast,2023-08-06,Medium
+SUP042,Facilities,Southeast,2024-04-04,Medium
+SUP043,Travel,Southeast,2022-01-11,Medium
+SUP044,Facilities,North,2020-01-20,Medium
+SUP045,Professional Services,South,2022-01-31,Low
+SUP046,Facilities,Central-West,2016-03-30,Medium
+SUP047,Facilities,North,2014-10-22,High
+SUP048,Technology,Southeast,2023-12-03,Low
+SUP049,Technology,North,2021-08-20,Medium
+SUP050,Technology,South,2015-11-06,Low
+SUP051,Utilities,Southeast,2023-12-08,Medium
+SUP052,Technology,Southeast,2015-12-23,Medium
+SUP053,Logistics,Southeast,2024-02-11,Medium
+SUP054,Technology,Central-West,2016-08-12,Low
+SUP055,Office Supplies,Southeast,2024-04-01,Medium
+SUP056,Travel,South,2017-12-19,Low
+SUP057,Logistics,South,2016-10-26,Medium
+SUP058,Technology,Northeast,2020-02-22,Low
+SUP059,Logistics,Southeast,2014-01-20,Medium
+SUP060,Office Supplies,South,2014-07-02,Medium
+SUP061,Professional Services,Central-West,2017-08-09,Medium
+SUP062,Utilities,Northeast,2023-03-13,Medium
+SUP063,Professional Services,Southeast,2019-08-23,Medium
+SUP064,Marketing,Southeast,2024-08-21,Medium
+SUP065,Facilities,Central-West,2016-02-19,Low
+SUP066,Technology,Southeast,2021-10-04,Medium
+SUP067,Technology,Southeast,2023-06-27,High
+SUP068,Utilities,Southeast,2018-07-04,Medium
+SUP069,Marketing,Northeast,2023-09-25,Low
+SUP070,Utilities,Southeast,2022-02-12,Low
+SUP071,Office Supplies,Central-West,2019-07-25,High
+SUP072,Professional Services,Northeast,2014-12-19,Low
+SUP073,Technology,Southeast,2016-05-25,Low
+SUP074,Office Supplies,Central-West,2023-11-28,Low
+SUP075,Professional Services,Southeast,2014-08-05,Medium
+SUP076,Technology,Central-West,2017-07-31,Low
+SUP077,Marketing,North,2022-10-23,Medium
+SUP078,Professional Services,North,2016-06-24,Medium
+SUP079,Professional Services,Central-West,2024-04-30,Medium
+SUP080,Office Supplies,Southeast,2020-06-08,Low
+SUP081,Logistics,Southeast,2022-12-16,High
+SUP082,Logistics,South,2018-06-14,Medium
+SUP083,Professional Services,Northeast,2022-10-26,Medium
+SUP084,Logistics,South,2019-12-26,Low
+SUP085,Logistics,Southeast,2023-09-16,High
+SUP086,Technology,South,2024-03-14,Medium
+SUP087,Office Supplies,Central-West,2016-12-20,Low
+SUP088,Logistics,Northeast,2014-07-23,Medium
+SUP089,Office Supplies,Southeast,2024-01-03,High
+SUP090,Travel,Southeast,2015-08-29,Medium

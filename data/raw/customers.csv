@@ -1,0 +1,351 @@
+customer_id,customer_segment,industry,region,customer_since,customer_risk_band
+CUST0001,Small Business,Professional Services,Southeast,2021-08-20,Low
+CUST0002,Mid-Market,Construction,Southeast,2021-07-09,Medium
+CUST0003,Individual,Education,Central-West,2021-10-13,Low
+CUST0004,Mid-Market,Hospitality,Northeast,2016-11-20,Medium
+CUST0005,Small Business,Construction,North,2019-02-01,Low
+CUST0006,Mid-Market,Technology,Southeast,2022-10-31,Medium
+CUST0007,Enterprise,Education,Southeast,2020-05-16,Low
+CUST0008,Mid-Market,Manufacturing,Southeast,2016-01-19,Medium
+CUST0009,Small Business,Healthcare,Southeast,2023-04-23,High
+CUST0010,Enterprise,Education,Southeast,2022-05-16,Low
+CUST0011,Small Business,Hospitality,South,2016-03-11,High
+CUST0012,Enterprise,Hospitality,Central-West,2018-04-28,Medium
+CUST0013,Individual,Education,Central-West,2020-09-04,Medium
+CUST0014,Small Business,Manufacturing,Southeast,2021-12-07,Low
+CUST0015,Small Business,Education,Southeast,2016-07-17,Medium
+CUST0016,Small Business,Technology,Northeast,2023-11-05,Low
+CUST0017,Enterprise,Retail,South,2022-05-19,Medium
+CUST0018,Individual,Construction,South,2021-03-29,High
+CUST0019,Small Business,Manufacturing,North,2016-01-02,High
+CUST0020,Small Business,Hospitality,Southeast,2020-09-19,Low
+CUST0021,Mid-Market,Professional Services,Northeast,2020-11-16,High
+CUST0022,Small Business,Healthcare,Southeast,2015-09-24,Medium
+CUST0023,Mid-Market,Hospitality,South,2023-02-26,Medium
+CUST0024,Mid-Market,Retail,Southeast,2020-03-28,Low
+CUST0025,Mid-Market,Construction,Central-West,2022-01-15,Low
+CUST0026,Small Business,Manufacturing,North,2024-01-23,Medium
+CUST0027,Mid-Market,Healthcare,Southeast,2017-10-19,Medium
+CUST0028,Enterprise,Manufacturing,South,2020-11-20,Medium
+CUST0029,Small Business,Professional Services,South,2016-02-07,Low
+CUST0030,Small Business,Retail,Southeast,2023-02-04,High
+CUST0031,Small Business,Education,Southeast,2021-04-25,High
+CUST0032,Enterprise,Healthcare,Northeast,2021-03-25,High
+CUST0033,Individual,Professional Services,South,2019-09-28,Medium
+CUST0034,Mid-Market,Construction,Central-West,2022-11-19,Medium
+CUST0035,Small Business,Technology,Southeast,2021-03-17,Medium
+CUST0036,Mid-Market,Healthcare,North,2024-10-15,Low
+CUST0037,Enterprise,Manufacturing,Southeast,2024-10-15,Low
+CUST0038,Mid-Market,Manufacturing,South,2023-11-17,High
+CUST0039,Small Business,Manufacturing,South,2017-02-28,Medium
+CUST0040,Individual,Education,Northeast,2021-12-22,Medium
+CUST0041,Mid-Market,Healthcare,Southeast,2015-10-26,Low
+CUST0042,Small Business,Healthcare,North,2023-05-24,Medium
+CUST0043,Enterprise,Retail,Southeast,2024-04-08,Medium
+CUST0044,Individual,Education,North,2018-10-17,Medium
+CUST0045,Mid-Market,Construction,Southeast,2021-03-24,Low
+CUST0046,Small Business,Manufacturing,Southeast,2020-06-24,Low
+CUST0047,Small Business,Retail,Southeast,2022-11-17,Low
+CUST0048,Small Business,Education,Northeast,2018-04-03,Medium
+CUST0049,Enterprise,Hospitality,Northeast,2024-06-13,High
+CUST0050,Enterprise,Retail,Central-West,2023-09-18,Low
+CUST0051,Small Business,Professional Services,Northeast,2021-12-20,High
+CUST0052,Small Business,Manufacturing,South,2019-06-15,Medium
+CUST0053,Small Business,Education,North,2015-11-03,Low
+CUST0054,Enterprise,Education,Southeast,2020-01-04,Low
+CUST0055,Mid-Market,Professional Services,Northeast,2015-10-05,Low
+CUST0056,Mid-Market,Manufacturing,Southeast,2018-05-02,Low
+CUST0057,Mid-Market,Technology,South,2020-12-27,High
+CUST0058,Small Business,Retail,Central-West,2022-07-14,Medium
+CUST0059,Small Business,Hospitality,Southeast,2017-03-25,Medium
+CUST0060,Enterprise,Manufacturing,South,2023-04-30,Medium
+CUST0061,Enterprise,Retail,North,2016-02-07,Medium
+CUST0062,Enterprise,Construction,Central-West,2015-03-21,High
+CUST0063,Mid-Market,Construction,Southeast,2015-09-18,Medium
+CUST0064,Mid-Market,Manufacturing,Southeast,2023-08-04,Medium
+CUST0065,Mid-Market,Hospitality,North,2015-04-19,Medium
+CUST0066,Small Business,Technology,Northeast,2015-08-11,Low
+CUST0067,Mid-Market,Retail,South,2018-12-24,Medium
+CUST0068,Mid-Market,Technology,North,2024-05-01,High
+CUST0069,Enterprise,Education,Central-West,2018-05-18,Low
+CUST0070,Small Business,Healthcare,Northeast,2018-10-22,Medium
+CUST0071,Small Business,Professional Services,South,2020-03-31,Low
+CUST0072,Mid-Market,Technology,South,2022-05-17,High
+CUST0073,Enterprise,Hospitality,Central-West,2021-01-03,Low
+CUST0074,Enterprise,Education,Southeast,2015-04-08,Low
+CUST0075,Mid-Market,Hospitality,Southeast,2023-09-03,High
+CUST0076,Enterprise,Healthcare,South,2015-11-04,Low
+CUST0077,Mid-Market,Technology,Southeast,2024-08-18,Medium
+CUST0078,Individual,Healthcare,Northeast,2016-09-14,Medium
+CUST0079,Enterprise,Retail,South,2021-07-22,Medium
+CUST0080,Small Business,Professional Services,South,2015-09-30,Medium
+CUST0081,Individual,Technology,North,2024-02-05,Medium
+CUST0082,Mid-Market,Hospitality,Northeast,2015-04-18,Medium
+CUST0083,Individual,Education,Southeast,2016-03-24,Low
+CUST0084,Mid-Market,Hospitality,Southeast,2016-11-05,Low
+CUST0085,Mid-Market,Professional Services,North,2023-11-21,High
+CUST0086,Mid-Market,Hospitality,Central-West,2021-12-02,Medium
+CUST0087,Mid-Market,Hospitality,Southeast,2019-09-06,High
+CUST0088,Enterprise,Professional Services,Southeast,2017-08-10,Low
+CUST0089,Mid-Market,Retail,North,2024-07-01,Low
+CUST0090,Enterprise,Hospitality,Southeast,2019-04-25,Medium
+CUST0091,Small Business,Education,North,2015-11-13,Medium
+CUST0092,Mid-Market,Professional Services,Southeast,2015-08-17,Medium
+CUST0093,Enterprise,Construction,Northeast,2017-09-12,Low
+CUST0094,Enterprise,Construction,Northeast,2024-05-27,Low
+CUST0095,Mid-Market,Healthcare,Southeast,2019-11-04,High
+CUST0096,Mid-Market,Construction,Northeast,2024-02-02,Medium
+CUST0097,Individual,Professional Services,South,2021-12-19,Low
+CUST0098,Individual,Healthcare,Central-West,2015-03-31,Medium
+CUST0099,Enterprise,Construction,Southeast,2018-06-06,Medium
+CUST0100,Mid-Market,Retail,North,2024-04-03,High
+CUST0101,Mid-Market,Professional Services,Northeast,2016-07-30,Low
+CUST0102,Small Business,Education,Southeast,2023-03-05,Low
+CUST0103,Enterprise,Manufacturing,Southeast,2019-08-17,Medium
+CUST0104,Small Business,Professional Services,Southeast,2019-08-13,Low
+CUST0105,Small Business,Professional Services,Southeast,2017-06-29,Medium
+CUST0106,Enterprise,Education,South,2024-07-08,Low
+CUST0107,Small Business,Education,Central-West,2022-03-08,Medium
+CUST0108,Small Business,Professional Services,Southeast,2024-07-24,Medium
+CUST0109,Enterprise,Technology,Southeast,2019-12-09,High
+CUST0110,Enterprise,Healthcare,Southeast,2023-05-28,Medium
+CUST0111,Small Business,Professional Services,Northeast,2021-09-19,Low
+CUST0112,Individual,Hospitality,Southeast,2024-04-05,Medium
+CUST0113,Small Business,Professional Services,South,2017-06-19,Low
+CUST0114,Mid-Market,Construction,Northeast,2021-08-14,Low
+CUST0115,Mid-Market,Technology,Northeast,2024-07-02,Low
+CUST0116,Mid-Market,Technology,Southeast,2019-09-17,Medium
+CUST0117,Mid-Market,Education,Northeast,2023-03-14,Low
+CUST0118,Small Business,Healthcare,Southeast,2016-11-11,Medium
+CUST0119,Mid-Market,Education,Southeast,2019-07-15,Low
+CUST0120,Small Business,Professional Services,South,2015-08-04,Low
+CUST0121,Enterprise,Technology,Northeast,2019-04-16,Low
+CUST0122,Individual,Retail,Central-West,2021-05-12,Medium
+CUST0123,Small Business,Healthcare,Southeast,2015-12-08,Low
+CUST0124,Enterprise,Manufacturing,Southeast,2019-04-06,High
+CUST0125,Small Business,Professional Services,Central-West,2018-12-25,Medium
+CUST0126,Enterprise,Healthcare,Northeast,2015-09-26,Medium
+CUST0127,Mid-Market,Technology,Central-West,2017-07-12,High
+CUST0128,Small Business,Technology,Northeast,2016-05-31,Low
+CUST0129,Enterprise,Construction,North,2022-12-27,Low
+CUST0130,Small Business,Professional Services,Southeast,2024-05-12,Medium
+CUST0131,Enterprise,Manufacturing,Southeast,2021-02-19,Low
+CUST0132,Small Business,Hospitality,Central-West,2020-06-29,Low
+CUST0133,Individual,Construction,Southeast,2015-06-10,High
+CUST0134,Enterprise,Professional Services,Southeast,2018-11-08,High
+CUST0135,Small Business,Technology,Southeast,2024-07-27,Medium
+CUST0136,Small Business,Retail,Northeast,2016-02-09,High
+CUST0137,Mid-Market,Education,Southeast,2023-05-07,Low
+CUST0138,Small Business,Retail,Central-West,2023-08-08,High
+CUST0139,Enterprise,Healthcare,Southeast,2018-05-08,Medium
+CUST0140,Mid-Market,Professional Services,Central-West,2022-08-12,High
+CUST0141,Small Business,Construction,Southeast,2018-03-30,Medium
+CUST0142,Small Business,Construction,Northeast,2016-09-24,Medium
+CUST0143,Small Business,Education,South,2019-08-11,Medium
+CUST0144,Small Business,Construction,Southeast,2023-03-25,Low
+CUST0145,Individual,Healthcare,Southeast,2021-08-29,Low
+CUST0146,Small Business,Professional Services,Southeast,2024-11-09,Medium
+CUST0147,Mid-Market,Professional Services,North,2015-02-11,High
+CUST0148,Small Business,Hospitality,South,2023-11-30,High
+CUST0149,Small Business,Technology,Northeast,2022-06-02,Medium
+CUST0150,Small Business,Healthcare,Southeast,2024-11-27,Low
+CUST0151,Small Business,Education,Southeast,2020-09-28,Low
+CUST0152,Mid-Market,Professional Services,Northeast,2024-03-18,Low
+CUST0153,Small Business,Hospitality,South,2021-12-21,Medium
+CUST0154,Small Business,Manufacturing,Southeast,2021-09-30,Low
+CUST0155,Mid-Market,Education,North,2015-03-01,Medium
+CUST0156,Small Business,Professional Services,Southeast,2022-11-21,Low
+CUST0157,Enterprise,Technology,Southeast,2022-11-25,Medium
+CUST0158,Enterprise,Retail,Northeast,2024-04-26,Medium
+CUST0159,Small Business,Retail,Southeast,2018-08-01,Low
+CUST0160,Individual,Technology,Southeast,2023-11-15,Medium
+CUST0161,Small Business,Technology,Southeast,2017-06-26,Medium
+CUST0162,Enterprise,Manufacturing,South,2019-04-03,Medium
+CUST0163,Enterprise,Healthcare,Central-West,2016-10-03,Low
+CUST0164,Mid-Market,Technology,Southeast,2022-08-25,Low
+CUST0165,Mid-Market,Manufacturing,Southeast,2015-06-19,Medium
+CUST0166,Small Business,Construction,South,2016-11-23,Medium
+CUST0167,Small Business,Technology,Northeast,2018-08-05,Medium
+CUST0168,Mid-Market,Hospitality,Central-West,2015-01-15,High
+CUST0169,Mid-Market,Education,Northeast,2023-06-23,High
+CUST0170,Enterprise,Education,Southeast,2015-06-16,High
+CUST0171,Enterprise,Technology,Northeast,2020-11-08,Low
+CUST0172,Mid-Market,Manufacturing,Southeast,2024-05-16,Medium
+CUST0173,Enterprise,Technology,Central-West,2022-01-19,Medium
+CUST0174,Mid-Market,Hospitality,Southeast,2022-03-07,Low
+CUST0175,Small Business,Hospitality,South,2015-11-02,Low
+CUST0176,Small Business,Construction,Southeast,2020-01-26,Low
+CUST0177,Mid-Market,Healthcare,South,2018-04-10,Medium
+CUST0178,Individual,Healthcare,Southeast,2021-05-19,High
+CUST0179,Enterprise,Professional Services,North,2018-03-10,High
+CUST0180,Individual,Education,Central-West,2019-12-16,Low
+CUST0181,Small Business,Retail,North,2022-06-10,Medium
+CUST0182,Small Business,Retail,Southeast,2015-12-08,Low
+CUST0183,Mid-Market,Professional Services,Southeast,2023-05-23,Low
+CUST0184,Small Business,Manufacturing,Northeast,2019-06-17,Medium
+CUST0185,Individual,Professional Services,Central-West,2021-08-29,Medium
+CUST0186,Enterprise,Retail,Southeast,2016-11-13,Medium
+CUST0187,Enterprise,Technology,Southeast,2019-04-30,Low
+CUST0188,Mid-Market,Healthcare,North,2015-10-28,Low
+CUST0189,Enterprise,Professional Services,Southeast,2015-08-28,Low
+CUST0190,Mid-Market,Manufacturing,Central-West,2016-07-26,Medium
+CUST0191,Enterprise,Healthcare,South,2022-03-21,Low
+CUST0192,Mid-Market,Manufacturing,South,2020-04-26,Medium
+CUST0193,Mid-Market,Construction,Northeast,2020-01-10,Low
+CUST0194,Mid-Market,Manufacturing,South,2018-09-29,Medium
+CUST0195,Enterprise,Manufacturing,Southeast,2016-02-11,Medium
+CUST0196,Small Business,Retail,South,2015-04-04,Low
+CUST0197,Enterprise,Healthcare,Northeast,2020-01-29,Low
+CUST0198,Individual,Retail,Southeast,2023-12-04,High
+CUST0199,Mid-Market,Technology,Central-West,2024-07-04,Medium
+CUST0200,Individual,Technology,Northeast,2023-11-18,Medium
+CUST0201,Mid-Market,Retail,Southeast,2021-03-23,Medium
+CUST0202,Mid-Market,Healthcare,South,2020-06-14,Medium
+CUST0203,Mid-Market,Professional Services,Northeast,2024-03-23,Medium
+CUST0204,Mid-Market,Healthcare,Southeast,2024-09-11,Medium
+CUST0205,Individual,Professional Services,North,2022-02-17,Medium
+CUST0206,Mid-Market,Education,Central-West,2018-09-19,High
+CUST0207,Enterprise,Hospitality,Northeast,2019-12-06,Low
+CUST0208,Small Business,Construction,South,2016-09-20,Medium
+CUST0209,Mid-Market,Construction,North,2020-04-16,Low
+CUST0210,Mid-Market,Retail,Southeast,2024-08-23,High
+CUST0211,Mid-Market,Manufacturing,South,2023-11-13,Low
+CUST0212,Mid-Market,Healthcare,South,2017-04-12,Medium
+CUST0213,Small Business,Retail,Southeast,2019-09-28,Medium
+CUST0214,Small Business,Construction,Northeast,2015-10-31,Medium
+CUST0215,Mid-Market,Construction,South,2019-04-17,Medium
+CUST0216,Mid-Market,Professional Services,North,2020-04-28,Medium
+CUST0217,Individual,Construction,Southeast,2015-09-25,Medium
+CUST0218,Small Business,Manufacturing,Southeast,2023-12-18,Low
+CUST0219,Small Business,Manufacturing,Southeast,2018-01-13,Medium
+CUST0220,Mid-Market,Manufacturing,Northeast,2016-03-24,Medium
+CUST0221,Small Business,Education,Southeast,2019-08-18,High
+CUST0222,Mid-Market,Education,South,2019-04-25,Low
+CUST0223,Mid-Market,Construction,Central-West,2019-09-03,Low
+CUST0224,Small Business,Manufacturing,North,2021-08-03,Low
+CUST0225,Small Business,Healthcare,Southeast,2024-01-09,Low
+CUST0226,Small Business,Technology,Southeast,2015-10-11,Low
+CUST0227,Enterprise,Technology,South,2015-08-13,Low
+CUST0228,Enterprise,Professional Services,South,2022-08-26,Medium
+CUST0229,Small Business,Retail,Southeast,2017-12-04,High
+CUST0230,Mid-Market,Manufacturing,Southeast,2021-07-16,High
+CUST0231,Enterprise,Manufacturing,Southeast,2024-09-26,Medium
+CUST0232,Small Business,Professional Services,Northeast,2021-02-20,Low
+CUST0233,Mid-Market,Hospitality,Northeast,2024-09-05,Low
+CUST0234,Small Business,Manufacturing,Southeast,2016-02-25,Low
+CUST0235,Mid-Market,Healthcare,Central-West,2015-09-26,Low
+CUST0236,Small Business,Hospitality,Northeast,2020-12-31,Low
+CUST0237,Mid-Market,Technology,Southeast,2018-09-01,Medium
+CUST0238,Small Business,Retail,South,2019-01-08,Low
+CUST0239,Mid-Market,Professional Services,Southeast,2024-02-04,High
+CUST0240,Enterprise,Manufacturing,Southeast,2021-11-28,Low
+CUST0241,Individual,Education,South,2019-08-16,Medium
+CUST0242,Small Business,Technology,South,2024-09-20,Low
+CUST0243,Enterprise,Hospitality,Northeast,2024-03-09,Low
+CUST0244,Mid-Market,Manufacturing,Southeast,2015-10-05,High
+CUST0245,Enterprise,Retail,Southeast,2017-03-20,Low
+CUST0246,Mid-Market,Professional Services,Northeast,2018-03-01,Medium
+CUST0247,Individual,Professional Services,Northeast,2015-06-11,Medium
+CUST0248,Individual,Retail,Central-West,2020-09-19,Low
+CUST0249,Small Business,Professional Services,North,2022-04-10,Medium
+CUST0250,Small Business,Technology,Northeast,2018-12-14,High
+CUST0251,Small Business,Retail,Southeast,2019-07-22,Medium
+CUST0252,Small Business,Technology,Southeast,2019-08-25,Low
+CUST0253,Enterprise,Retail,Southeast,2019-01-06,Medium
+CUST0254,Enterprise,Education,South,2018-04-15,Medium
+CUST0255,Small Business,Education,South,2018-04-22,Low
+CUST0256,Small Business,Hospitality,Southeast,2015-06-24,Medium
+CUST0257,Small Business,Technology,North,2019-04-19,Medium
+CUST0258,Mid-Market,Professional Services,Northeast,2015-04-25,Medium
+CUST0259,Small Business,Healthcare,Southeast,2015-05-26,Medium
+CUST0260,Mid-Market,Healthcare,Northeast,2022-11-05,Medium
+CUST0261,Mid-Market,Education,Northeast,2023-07-31,Medium
+CUST0262,Mid-Market,Technology,South,2015-03-16,Low
+CUST0263,Mid-Market,Technology,Southeast,2015-08-17,High
+CUST0264,Enterprise,Hospitality,Southeast,2020-04-11,Medium
+CUST0265,Small Business,Education,Southeast,2018-04-19,Medium
+CUST0266,Enterprise,Hospitality,South,2022-03-28,Medium
+CUST0267,Small Business,Technology,Southeast,2017-11-19,Medium
+CUST0268,Small Business,Manufacturing,Southeast,2016-06-26,High
+CUST0269,Individual,Technology,Northeast,2018-01-19,Low
+CUST0270,Enterprise,Construction,South,2023-11-17,High
+CUST0271,Mid-Market,Education,South,2022-10-16,Medium
+CUST0272,Small Business,Education,Southeast,2017-06-08,Medium
+CUST0273,Small Business,Professional Services,Southeast,2019-08-07,Medium
+CUST0274,Mid-Market,Healthcare,Northeast,2020-04-23,Low
+CUST0275,Enterprise,Professional Services,Southeast,2015-06-07,High
+CUST0276,Small Business,Manufacturing,South,2023-02-19,Low
+CUST0277,Mid-Market,Healthcare,Southeast,2018-02-09,Medium
+CUST0278,Small Business,Healthcare,Central-West,2018-12-23,Low
+CUST0279,Enterprise,Construction,South,2016-06-12,Low
+CUST0280,Mid-Market,Retail,Northeast,2016-01-06,Low
+CUST0281,Mid-Market,Hospitality,Northeast,2015-08-20,Medium
+CUST0282,Enterprise,Education,South,2022-08-09,Medium
+CUST0283,Enterprise,Professional Services,Southeast,2019-09-30,Low
+CUST0284,Mid-Market,Retail,Northeast,2016-12-01,Medium
+CUST0285,Enterprise,Healthcare,Southeast,2019-05-04,Low
+CUST0286,Individual,Manufacturing,Southeast,2016-03-17,Low
+CUST0287,Small Business,Education,North,2024-12-19,Medium
+CUST0288,Enterprise,Retail,Central-West,2015-10-24,Medium
+CUST0289,Enterprise,Construction,North,2015-01-29,High
+CUST0290,Small Business,Education,Southeast,2022-01-01,Low
+CUST0291,Small Business,Healthcare,Northeast,2019-03-15,Low
+CUST0292,Mid-Market,Manufacturing,Southeast,2015-04-11,Low
+CUST0293,Individual,Construction,Southeast,2017-04-07,Medium
+CUST0294,Small Business,Manufacturing,Southeast,2020-08-12,Low
+CUST0295,Mid-Market,Healthcare,Central-West,2016-03-09,Low
+CUST0296,Small Business,Healthcare,South,2016-09-03,Low
+CUST0297,Mid-Market,Hospitality,Northeast,2017-07-27,Medium
+CUST0298,Small Business,Healthcare,Southeast,2023-11-28,Low
+CUST0299,Enterprise,Healthcare,Southeast,2023-03-17,Low
+CUST0300,Mid-Market,Hospitality,Southeast,2021-07-17,Low
+CUST0301,Small Business,Hospitality,Southeast,2016-12-04,Low
+CUST0302,Small Business,Technology,Northeast,2016-05-08,Medium
+CUST0303,Mid-Market,Construction,Northeast,2015-03-16,Medium
+CUST0304,Mid-Market,Professional Services,Southeast,2017-12-14,Medium
+CUST0305,Mid-Market,Manufacturing,South,2018-03-06,Medium
+CUST0306,Mid-Market,Hospitality,Central-West,2020-05-20,Low
+CUST0307,Small Business,Hospitality,North,2017-07-17,Low
+CUST0308,Small Business,Education,South,2023-03-13,Medium
+CUST0309,Small Business,Manufacturing,Northeast,2015-02-22,Medium
+CUST0310,Small Business,Manufacturing,Central-West,2023-12-05,Medium
+CUST0311,Small Business,Education,Southeast,2023-05-28,Low
+CUST0312,Enterprise,Professional Services,North,2016-03-31,High
+CUST0313,Small Business,Hospitality,Southeast,2022-07-19,Medium
+CUST0314,Individual,Technology,Southeast,2021-06-11,Low
+CUST0315,Small Business,Professional Services,Southeast,2016-04-09,Medium
+CUST0316,Small Business,Construction,North,2020-11-09,High
+CUST0317,Mid-Market,Professional Services,Northeast,2023-02-02,Medium
+CUST0318,Small Business,Technology,Northeast,2019-09-08,Low
+CUST0319,Enterprise,Healthcare,Southeast,2021-08-20,High
+CUST0320,Mid-Market,Construction,Southeast,2016-12-28,Medium
+CUST0321,Enterprise,Professional Services,Southeast,2023-06-01,Medium
+CUST0322,Mid-Market,Retail,Southeast,2020-08-31,Low
+CUST0323,Small Business,Hospitality,South,2016-08-11,Medium
+CUST0324,Individual,Manufacturing,Central-West,2023-05-06,Medium
+CUST0325,Enterprise,Hospitality,South,2018-01-15,Medium
+CUST0326,Enterprise,Healthcare,Northeast,2020-12-30,High
+CUST0327,Mid-Market,Manufacturing,South,2021-05-08,Low
+CUST0328,Enterprise,Healthcare,Northeast,2016-09-15,Medium
+CUST0329,Small Business,Healthcare,Central-West,2021-02-16,Low
+CUST0330,Mid-Market,Healthcare,Southeast,2015-08-27,Low
+CUST0331,Mid-Market,Professional Services,Northeast,2016-05-10,Medium
+CUST0332,Small Business,Professional Services,Northeast,2020-11-01,Low
+CUST0333,Mid-Market,Healthcare,Southeast,2024-07-19,Low
+CUST0334,Small Business,Manufacturing,Central-West,2019-09-29,Low
+CUST0335,Mid-Market,Manufacturing,Southeast,2019-07-19,Medium
+CUST0336,Small Business,Manufacturing,Southeast,2020-05-11,Medium
+CUST0337,Mid-Market,Hospitality,Central-West,2018-09-25,Low
+CUST0338,Mid-Market,Professional Services,Southeast,2016-12-14,High
+CUST0339,Individual,Hospitality,Northeast,2017-03-12,High
+CUST0340,Small Business,Construction,Northeast,2017-09-04,Low
+CUST0341,Small Business,Hospitality,Central-West,2024-12-27,Medium
+CUST0342,Small Business,Construction,Southeast,2016-02-14,Medium
+CUST0343,Mid-Market,Construction,Northeast,2017-06-01,Low
+CUST0344,Small Business,Construction,South,2021-11-02,High
+CUST0345,Enterprise,Healthcare,Southeast,2019-12-16,Medium
+CUST0346,Small Business,Education,Central-West,2016-03-01,Low
+CUST0347,Enterprise,Healthcare,Central-West,2020-08-19,Low
+CUST0348,Mid-Market,Construction,Northeast,2022-06-15,Medium
+CUST0349,Mid-Market,Healthcare,Southeast,2020-03-29,High
+CUST0350,Small Business,Hospitality,South,2016-07-27,Low
