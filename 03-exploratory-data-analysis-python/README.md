@@ -44,4 +44,7 @@ The following checks were performed:
 
 The validation process confirmed that the dataset dimensions and financial consistency checks matched the expected results.
 
+### Status now:
+Correlation and Agr grafs and simple checks updated.
+
 Further exploratory analysis will be developed in the next stages.
